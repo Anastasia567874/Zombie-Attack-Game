@@ -1,0 +1,8 @@
+barrel.png 1
+bush.png 0
+stump.png 0
+tree.png 0
+monster2.png 1
+monster1.png 0
+monster3.png 0
+monster4.png 0
